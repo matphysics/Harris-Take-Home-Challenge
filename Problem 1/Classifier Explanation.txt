@@ -1,0 +1,1 @@
+A multilatyer percepton network was used for its greater accuracy. MLPClassifier Run 3 gives the best results.
